@@ -1,0 +1,4 @@
+[submodule "cloud_web/public"]
+	path = cloud_web/public
+	url = https://github.com/Kororius/Kororius.github.io.git
+	branch = main
