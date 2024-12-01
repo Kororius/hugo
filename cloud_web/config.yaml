@@ -35,8 +35,8 @@ Menus:
       url: /gallery
       weight: 2
     - identifier: newpage
-      name: My New Page
-      title: My New Page
+      name: naujas langas
+      title: naujas langas
       url: /new-page
       weight: 3
 
